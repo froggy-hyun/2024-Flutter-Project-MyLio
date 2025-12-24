@@ -1,4 +1,12 @@
-# 2024-Flutter-Project-MyLio
+# MyLio - Flutter를 활용한 이력서 기반 AI 자기소개서 생성 앱
+
+### 📖 내용
+
+- 24-25 GDGoC 팀프로젝트 (전서진[PM], 기나혜[FE], 장수혁[BE], 최성현[BE], 홍승원[FE])
+
+### 🙋‍♂️ 역할
+
+- 백엔드 개발 (이력서 및 자소서 기능 구현), AWS 배포 및 관리, Flutter 약간의 연동 도움
 
 ![MyLio  Flutter를 활용한 이력서 기반 AI 자기소개서 생성 앱_page-0001](https://github.com/user-attachments/assets/7c30d19a-ad42-414d-bacc-8e98bda040e4)
 ![MyLio  Flutter를 활용한 이력서 기반 AI 자기소개서 생성 앱_page-0002](https://github.com/user-attachments/assets/f3a1f9db-e48d-47ff-8591-8ecf622243bd)
