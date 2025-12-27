@@ -1,12 +1,20 @@
 # MyLio - Flutter를 활용한 이력서 기반 AI 자기소개서 생성 앱
 
-### 📖 내용
+### 📖 개요
 
 - 24-25 GDGoC 팀프로젝트 (전서진[PM], 기나혜[FE], 장수혁[BE], 최성현[BE], 홍승원[FE])
+<br><br>
 
 ### 🙋‍♂️ 역할
 
 - 백엔드 개발 (이력서 및 자소서 기능 구현), AWS 배포 및 관리, Flutter 약간의 연동 도움
+<br><br>
+
+### 💡 내용
+
+##### 시연 영상 (클릭 시 유튜브로 이동)
+[![시연 영상](https://img.youtube.com/vi/OMH-Uuzxgb0/hqdefault.jpg)](https://youtu.be/OMH-Uuzxgb0)
+<br>
 
 ![MyLio  Flutter를 활용한 이력서 기반 AI 자기소개서 생성 앱_page-0001](https://github.com/user-attachments/assets/7c30d19a-ad42-414d-bacc-8e98bda040e4)
 ![MyLio  Flutter를 활용한 이력서 기반 AI 자기소개서 생성 앱_page-0002](https://github.com/user-attachments/assets/f3a1f9db-e48d-47ff-8591-8ecf622243bd)
